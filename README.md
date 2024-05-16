@@ -1,1 +1,0 @@
-# simaoparedes.github.io
