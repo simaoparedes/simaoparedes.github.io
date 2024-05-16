@@ -134,6 +134,12 @@ h6 {
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
 }
 
+#header h1{
+  font-size: 2em;
+  font-weight: 600;
+}
+
+
 /*  PROGRAM ; TOPICS*/
 
 #program ul li, #topics ul li {text-decoration: none;
@@ -1086,6 +1092,9 @@ section,
 .portfolio .portfolio-content:hover img {
   transform: scale(1.1);
 }
+
+
+
 
 /*--------------------------------------------------------------
 # Faq Section
