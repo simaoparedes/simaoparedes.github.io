@@ -88,6 +88,8 @@ h6 {
   font-family: var(--heading-font);
 }
 
+#subm{font-size: 1.5em}
+
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
@@ -147,6 +149,8 @@ h6 {
                 margin-top: 1em;
                 font-size: 1.1em;}
 
+
+.c1{text-decoration: line-through;}
 
 
 
